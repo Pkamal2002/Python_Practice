@@ -8,3 +8,4 @@ print(bool(0)) #false
 print(bool('')) #false
 print(bool(None)) #false
 print(10 != '10')  #true
+
